@@ -1,0 +1,8 @@
+{ "type": "FeatureCollection",
+  "features": [
+    { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [141.2116,43.0344]},
+      "properties": {"name": "札幌市"}
+      }
+     ]
+   }
